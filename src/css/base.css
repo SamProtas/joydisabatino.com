@@ -1,0 +1,8 @@
+.cover-image {
+    background: url(../img/reaching-for-summer-1367719-1280x960.jpg);
+    background-size: cover;
+}
+
+.cover-text {
+    color: aquamarine;
+}
